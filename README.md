@@ -1,1 +1,1 @@
-# bx24appcore
+# Bitrix2 Application Core Framework
