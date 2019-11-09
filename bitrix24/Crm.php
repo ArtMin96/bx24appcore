@@ -67,7 +67,7 @@ class Crm
         return $this->restCommand('crm.userfield.fields', $params);
     }
 
-    public function requisite($params = array()){
+    public function getRequisite($params = array()){
         return $this->restCommand('crm.requisite.list', $params);
     }
 
