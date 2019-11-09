@@ -1,4 +1,4 @@
 # Bitrix2 Application Core Framework bulid with composer using namespace psr-4
-# Functional, getContacts, getCompanies, getDeals, GetLeads, getRequisite, getUserFilelds
+<p>Functional, getContacts, getCompanies, getDeals, GetLeads, getRequisite, getUserFilelds</p>
 
-Author:Norayr Petrosyan
+<h4>Author:Norayr Petrosyan</h4>
